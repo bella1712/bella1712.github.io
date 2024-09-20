@@ -1,4 +1,3 @@
-# Portfolio
 ## Wer ich bin
 Mein Name ist Isabella Freitag. Ich bin in meinem letzten Lehrjahr als Informatikerin mit der Fachrichtung Betriebsinformatik. Ich mache meine Lehre bei der F. Hoffmann-La Roche AG in Basel.
 In Punkto Informatik bin ich offen für alles und freue mich noch viel lernen zu dürfen.
@@ -29,13 +28,16 @@ Wenn Sie mehr über mich erfahren wollen, besuchen sie gerne mein [LinkedIn Prof
 
 ## Grosse Projekte während meiner Ausbildung
 In diesem Unterkaptitel finden Sie alle Projektarbeiten, an denen ich während meiner Lehre mitwirken durfte oder den Lead hatte. Aus geheimhaltungsgründen, darf ich die entsprechenden Projekte hier nicht verlinken oder offenlegen, dennoch möchte ich aufzeigen, was ich während meiner Ausbildung gemacht habe. 
+
 ### Lehrjahr 1
 - Greenroom (Lead):  Dokumentation des Setups eines Greenrooms
 - Esportarea Basel:  Einrichten der PC-stations und Erstellen der Servicenow-Site für die Esportsarea in einem der Rochetürme in Basel
+  
 ### Lehrjahr 2
 - Automatisiertes Datensheet (Lead):  Mittels Apps Script wurden GMP Daten automatisiert in ein passendes Template eingefügt und in ein passendes Dokument umgewandelt.
 - Client-Rollout in der Produktion: ca. 80 Clients wurden gestaged, getestet und dann in der Produktion ausgerollt. Ausserdem wurden Powershell-Scripts zur Automatisierung verwendet. 
 - Probe IPA (Lead):  Kommentarfunktion von Tableau mittels Streamlit und Snowflake realisiert.
+  
 ### Lehrjahr 3
 - Workstation-Overview: Eine Applikation, die mittels der RedHat Satellite API, die Daten für alle Workstations darstellen kann. Die Applikation musste im Nachgang noch überarbeitet werden und in diesem Zusammenhang wurden zusätzliche Sicherheitsfeatures eingebaut. 
 - Adminportal: Ein [Homer-Dashboard](https://github.com/bastienwirtz/homer), dass alle wichtigen Applikationen und Links anzeigt, die das Team benötigt
