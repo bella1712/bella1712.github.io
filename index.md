@@ -1,5 +1,5 @@
 
-<img src="imgs/10CB.JPG" alt="Bewerbungsfoto Isabella Freitag" style="float: left; margin-right: 20px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);" width="30%" height="200">Mein Name ist Isabella Freitag. Ich bin in meinem letzten Lehrjahr als Informatikerin mit der Fachrichtung Betriebsinformatik. Ich mache meine Lehre bei der F. Hoffmann-La Roche AG in Basel.
+<img src="imgs/10CB.JPG" alt="Bewerbungsfoto Isabella Freitag" style="float: left; margin-right: 20px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);" width="35%" >Mein Name ist Isabella Freitag. Ich bin in meinem letzten Lehrjahr als Informatikerin mit der Fachrichtung Betriebsinformatik. Ich mache meine Lehre bei der F. Hoffmann-La Roche AG in Basel.
 In Punkto Informatik bin ich offen für alles und freue mich noch viel lernen zu dürfen.
 
 Bisher habe ich die Werkschule absolviert, war eine kurze Zeit im Dev Team unserer Ausbildungsabteilung, war dann im CAR-X (Center of Analytics and Reports Kaiseraugst und Mannheim) Team bei ITOT, bin dann für ein paar Monate ins Client Management gekommen und bin nun bei pRED im CSP (Computational Science Platforms) Team. Ausserdem unterstütze ich auch regelmässig die Berufsbildung in dem ich das Berufsschnuppern oder Informatikworkshops leite. 
