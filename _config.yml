@@ -1,6 +1,7 @@
 title: Portfolio Isabella Freitag
-description: My portfolio and samples of my work
-show_downloads: false
+logo: imgs/10CB.JPG
+description: Portfolio, Werdegang und Arbeitsproben
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
