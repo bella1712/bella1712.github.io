@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Wer ich bin
 Mein Name ist Isabella Freitag. Ich bin in meinem letzten Lehrjahr als Informatikerin mit der Fachrichtung Betriebsinformatik. Ich mache meine Lehre bei der F. Hoffmann-La Roche AG in Basel.
 In Punkto Informatik bin ich offen für alles und freue mich noch viel lernen zu dürfen.
