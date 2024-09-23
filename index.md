@@ -1,15 +1,14 @@
 
 <img src="imgs/10CB.JPG" alt="Bewerbungsfoto Isabella Freitag" style="float: left; margin-right: 20px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);" width="35%" >Mein Name ist Isabella Freitag. Ich bin in meinem letzten Lehrjahr als Informatikerin mit der Fachrichtung Betriebsinformatik. Ich mache meine Lehre bei der F. Hoffmann-La Roche AG in Basel.
-In Punkto Informatik bin ich offen für alles und freue mich noch viel lernen zu dürfen.
 
-Bisher habe ich die Werkschule absolviert, war eine kurze Zeit im Dev Team unserer Ausbildungsabteilung, war dann im CAR-X (Center of Analytics and Reports Kaiseraugst und Mannheim) Team bei ITOT, bin dann für ein paar Monate ins Client Management gekommen und bin nun bei pRED im CSP (Computational Science Platforms) Team. Ausserdem unterstütze ich auch regelmässig die Berufsbildung in dem ich das Berufsschnuppern oder Informatikworkshops leite. 
+Bisher habe ich die Werkschule absolviert, war eine kurze Zeit im Dev Team unserer Ausbildungsabteilung, war in einem Analytics und Reporting Team, bin dann für ein paar Monate ins Client Management gekommen und bin jetzt in einem Data und Analytics Team. Ausserdem unterstütze ich auch regelmässig die Berufsbildung in dem ich das Berufsschnuppern oder Informatikworkshops leite.
 
 Im Laufe meiner Ausbildung bei der Roche durfte ich bis jetzt den Umgang mit verschiedenen Betriebssystemen, Programmiersprachen, Frameworks, Datenbanken, Virtualisierungs- und Orchestrierungsmöglichkeiten kennenlernen und anwenden.
-Ich habe gerlent zu programmieren, zu scripten und zu deployen.
+Ich habe gerlent zu programmieren, zu scripten und zu deployen. 
 Das Arbeiten im Team hat mir gezeigt, wie man Projektmanagement effektiv anwenden und praktizieren kann. Ausserdem habe ich gelernt wie wichtig CI/CD ist, um ein Team zu entlasten und dem Kunden gegenüber eine standartmässige Qualität gewährleisten zu können. 
-Projekte bei denen ich den Lead hatte durfte ich auch dem Management vorstellen und präsentieren. Entsprechende Projekte wurden auch angenommen und werden verwendet. 
+Projekte bei denen ich den Lead hatte, durfte ich auch dem Management vorstellen und präsentieren. Entsprechende Projekte wurden angenommen und werden jetzt verwendet. 
 
-Ich finde es spannend in jedem Sprint etwas neues zu lernen und im Umgang mit den verwendeten Technologien immer sicherer und vertrauter zu werden, aber auch immer wieder Neues zu entdecken.
+Ich finde es spannend in jedem Sprint etwas neues zu lernen und immer wieder neue Möglichkeiten zur Lösung verschiedenster Probleme zu finden. 
 
 Wenn Sie mehr über mich erfahren wollen, besuchen sie gerne mein [LinkedIn Profil](https://www.linkedin.com/in/isabella-freitag-2a6208289/)
 
@@ -24,13 +23,14 @@ Wenn Sie mehr über mich erfahren wollen, besuchen sie gerne mein [LinkedIn Prof
 - Orchestrierung: Rancher, MiniCube
 - Netzwerk-Kenntnisse: Netzwerkgrundlagen undServer Monitoring mit Nagios
 - Working-Strategies: Scrum
-- Andere Kenntnisse: git, CI/CD, yaml, Html, CSS, Tableau, Microsoft Office
+- Andere Kenntnisse: git, CI/CD, yaml, Html, CSS, Tableau, Microsoft Office (ECDL Zertifikat), 3D Druck
+- Sprachen: Deutsch (Muttersprache), Englisch (Business Englisch), Französisch, Spanisch
 
 ## Grosse Projekte während meiner Ausbildung
 In diesem Unterkaptitel finden Sie alle Projektarbeiten, an denen ich während meiner Lehre mitwirken durfte oder den Lead hatte. Aus geheimhaltungsgründen, darf ich die entsprechenden Projekte hier nicht verlinken oder offenlegen, dennoch möchte ich aufzeigen, was ich während meiner Ausbildung gemacht habe. 
 
 ### Lehrjahr 1
-- Greenroom (Lead):  Dokumentation des Setups eines Greenrooms
+- Greenroom (Lead):  Dokumentation des Setups eines Greenrooms für Foto- und Videoproduktionen
 - Esportarea Basel:  Einrichten der PC-stations und Erstellen der Servicenow-Site für die Esportsarea in einem der Rochetürme in Basel
   
 ### Lehrjahr 2
