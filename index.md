@@ -46,7 +46,6 @@ In diesem Unterkaptitel finden Sie alle Projektarbeiten, an denen ich während m
 ## Arbeitsproben 
 Die Arbeitsproben, die Sie hier finden können, sind privat oder zu Schulmodulen entstanden.
 - [Streamlit Applikation um Python zu lernen](https://interactive-intro-to-python-j8zb4sq8qenebn9mm7duk6.streamlit.app/), entstanden 2024
-- ...
 - [Aufträge im eigenen Berufsumfeld durchführen](https://bella1712.github.io/Modul-431/), entstanden 2022 (in meinem ersten Lehrjahr)
 
 
